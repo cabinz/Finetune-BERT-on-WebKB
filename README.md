@@ -1,6 +1,8 @@
 # Finetune-BERT-on-WebKB
 
-Project source of NCSU Summer Gears 2021.
+Project source of NCSU 2021 Summer Gears. 
+
+See [here](https://cabinz.github.io/2021summergears/2021/08/07/bert-on-webkb.html) for experiment report in Chinese.
 
 
 
