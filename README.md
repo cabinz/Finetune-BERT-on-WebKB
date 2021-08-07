@@ -8,12 +8,12 @@ See [here](https://cabinz.github.io/2021summergears/2021/08/07/bert-on-webkb.htm
 
 ## Requirements
 
-| Tools / Packages | Version                       | Installation                                                 |
-| ---------------- | ----------------------------- | ------------------------------------------------------------ |
-| Python           | 3.6 (conda 4.9.2 recommended) | [Miniconda](https://docs.conda.io/en/latest/miniconda.html)  |
-| pytorch          | 1.7.1                         | [Pytorch (GPU version recommended)](https://pytorch.org/get-started/locally/) |
-| transformers     | 4.8.2                         | [Huggingface Transformers (pip install recommended)](https://huggingface.co/transformers/installation.html) |
-| matplotlib       | 3.3.4                         | for visualization                                            |
+| Tools / Packages | Version | Installation                                                 |
+| ---------------- | ------- | ------------------------------------------------------------ |
+| Python           | 3.6     | [Miniconda (conda 4.9.2 recommended)](https://docs.conda.io/en/latest/miniconda.html) |
+| pytorch          | 1.7.1   | [Pytorch (GPU version recommended)](https://pytorch.org/get-started/locally/) |
+| transformers     | 4.8.2   | [Huggingface Transformers (pip install recommended)](https://huggingface.co/transformers/installation.html) |
+| matplotlib       | 3.3.4   | for visualization                                            |
 
 * Make sure your pytorch version matches the CUDA version of your machine for the program to run on GPU.
 * Recommend installing transformers using pip instead of conda, since the tokenizer from conda installation may require extra `GLIBC_2.29` from your machine system.
